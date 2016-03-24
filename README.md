@@ -11,3 +11,5 @@ Released at Chaos Constructions'2015
 
 <p>Emulators - invaluable tool for development (thank you, Franck Chevassu!) but quite bad for everything else.
 
+<p>License: MIT
+
