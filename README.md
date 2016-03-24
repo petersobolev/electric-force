@@ -1,4 +1,4 @@
-# electric_force
+# electric-force
 
 Electric Force by Frog //ROi<br>
 233 bytes intro for Vectrex computer<br>
